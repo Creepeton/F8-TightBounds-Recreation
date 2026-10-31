@@ -3,4 +3,4 @@
 
 This script was another one kept long unpublished and during that time I tried finding ways to optimise it mathematically or algorithmically but it always led to different more suboptimal outputs.
 
-This is the best compromise I was able to do.
+This is the best compromise I was able to do, it's not really precise though.
